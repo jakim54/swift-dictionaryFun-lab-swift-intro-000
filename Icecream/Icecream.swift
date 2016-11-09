@@ -9,13 +9,24 @@
 class Icecream {
     
     // 1. Create the Dictionary here. The name of the variable should be favoriteFlavorsOfIceCream
-    
-    
-    
-    
+    var favoriteFlavorsOfIceCream: [String: String] = [
+        "Joe": "Peanut Butter and Chocolate",
+        "Tim": "Natural Vanilla",
+        "Sophie": "Mexican Chocolate",
+        "Deniz": "Natural Vanilla",
+        "Tom": "Mexican Chocolate",
+        "Jim": "Natural Vanilla",
+        "Susan": "Cookies 'N' Cream"
+    ]
     
     // 2.
-    
+//    func names(forFlavor flavor: String) -> [String] {
+//        for name in forFlavor["flavor"] {
+//            print(flavors)
+//        }
+//        
+//        return [flavors]
+//    }
     
     
     
