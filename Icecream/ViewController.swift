@@ -9,25 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
     let icecream = Icecream()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        
         // Test your functions here. You have access to the icecream constant created above.
-        
-        
-        
-        
-        
-        
-        
     }
-
-    
-
-
 }
 
